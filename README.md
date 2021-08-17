@@ -1,4 +1,6 @@
-# MySQL-docker
+# the repository is not supported. the project has moved to [serverhome](https://github.com/chatlamin/serverhome)
+
+## MySQL-docker
 
 MySQL-docker - сервер MySQL в докер-контейнере
 
